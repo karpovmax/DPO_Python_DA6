@@ -12,6 +12,14 @@
 
 Курс разделен на 3 части: основы программирования на python, сбор данных с помощью python, анализ данных на python.
 
+# Проект по сбору данных (один на выбор)
+
+[Проект 1](https://docs.google.com/document/d/1PaQxkNbDg9Vaoe5BliY-LtRukzykUSGL9EqRzNq4nHs/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 10 занятия). Дедлайн: 1 ноября 23:59
+
+[Проект 2](https://docs.google.com/document/d/1VS4fQDVqSMT2bFj4FDMuSv8FQeiFtHSMlwkHpON6aCE/edit?usp=sharing) – сбор данных через API (выдается после 11 занятия). Дедлайн: 1 ноября 23:59
+
+[Проект 3](https://docs.google.com/document/d/1N9FyJVQsaYS8gohPw3gwVfDjWlazoWVGnHBxuwEDwuo/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 1 ноября 23:59
+
 # План
 
 ||Дата|Темы|
