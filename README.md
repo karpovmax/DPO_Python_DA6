@@ -20,6 +20,10 @@
 
 [Проект 3](https://docs.google.com/document/d/1N9FyJVQsaYS8gohPw3gwVfDjWlazoWVGnHBxuwEDwuo/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 12 занятия). Дедлайн: 1 ноября 23:59
 
+# Проект по анализу данных 
+
+[ТЗ по анализу данных](https://docs.google.com/document/d/12CgQETqYGRcnDj2r1-gqvu2jZKNzQ0xO8R4Wi0iuq4Q/edit?usp=sharing). Дедлайн: 15 ноября 23:30 МСК
+
 # План
 
 ||Дата|Темы|
