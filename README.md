@@ -24,6 +24,10 @@
 
 [ТЗ по анализу данных](https://docs.google.com/document/d/12CgQETqYGRcnDj2r1-gqvu2jZKNzQ0xO8R4Wi0iuq4Q/edit?usp=sharing). Дедлайн: 15 ноября 23:30 МСК
 
+# Проект по телеграм-боту (бонусный)
+
+[ТЗ по боту](https://docs.google.com/document/d/1wc_VXOD6BKCHeaK3J6rNQwr4m2lpt8AupLUeKg8-utk/edit?usp=sharing). Мягкий дедлайн: 23 ноября 23:59, жёсткий дедлайн: 30 ноября 23:59.
+
 # План
 
 ||Дата|Темы|
